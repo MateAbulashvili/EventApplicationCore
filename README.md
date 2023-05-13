@@ -1,10 +1,9 @@
 ASP.NET CORE MVC Project (Event Management)
 
-This Project is developed in Asp.net MVC Core 1.0.0 with windows dependencies.
+This Project is developed in Asp.net MVC Core  with windows dependencies.
 
 This project is complete aim on Event Management Process in this we have to automate Process of Event Management.
 
-![Banner](https://github.com/saineshwar/ASP.NET-CORE-MVC-Project-Event-Management/blob/master/image001.png?raw=true "Banner")
 
 There are 3 end User of project 
 1)	Admin end
@@ -30,41 +29,7 @@ I had developed this Application using Microsoft Visual Studio Community 2017 wi
 Server-side Technology used is ASP.NET Core MVC 1.0 and Language used for developing in C#, along with this Entity Framework Core
 and Dependency Injection for database accessing and finally for using Services we have Used Web API.
 
-<b>Microsoft Visual Studio Community 2017</b>
-Link to download: - 
 
-https://www.visualstudio.com/thank-you-downloading-visual-studio/?sku=Community&rel=15 
- 
-Microsoft SQL Server 2008
-Link to download: - 
-
-http://www.microsoft.com/en-in/download/details.aspx?id=1695 
-
-<b>Project Structure Screen</b>
-
-![Project Structure Screen](https://github.com/saineshwar/ASP.NET-CORE-MVC-Project-Event-Management/blob/master/image021.png?raw=true "Project Structure Screen")
-
-
-<b>Dependence injection in Startup.cs class</b>
-
-![Dependence injection](https://github.com/saineshwar/ASP.NET-CORE-MVC-Project-Event-Management/blob/master/image030.png?raw=true "Dependence injection")
-
-
-<b>Login Screen</b>
-
-![Login Screen](https://github.com/saineshwar/ASP.NET-CORE-MVC-Project-Event-Management/blob/master/image032.jpg?raw=true "Login Screen")
-
-<b>Event Booking Screen</b>
-
-![Event Booking Screen](https://github.com/saineshwar/ASP.NET-CORE-MVC-Project-Event-Management/blob/master/image053.jpg?raw=true "Event Booking Screen")
-
-<b>Booking Food Items Screen</b>
-
-![Booking Food Items](https://github.com/saineshwar/ASP.NET-CORE-MVC-Project-Event-Management/blob/master/image056.jpg?raw=true "Booking Food Items")
-
-<b>Display All User Booking</b>
-
-![Display All User Booking](https://github.com/saineshwar/ASP.NET-CORE-MVC-Project-Event-Management/blob/master/image059.jpg?raw=true "Display All User Booking")
 
 
 
